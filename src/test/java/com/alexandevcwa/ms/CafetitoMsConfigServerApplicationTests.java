@@ -1,4 +1,4 @@
-package com.alexandevcwa.ms.cafetitomsconfigserver;
+package com.alexandevcwa.ms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
